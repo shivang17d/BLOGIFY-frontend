@@ -16,8 +16,8 @@ database.
 ## Project Overview
 
 The project consists of 2 Repo -
-1 [Frontend Repo](https://github.com/shivang17d/BLOGIFY-frontend)
-2.[Backend Repo](https://github.com/shivang17d/BLOGIFY-backend)
+1. [Frontend Repo](https://github.com/shivang17d/BLOGIFY-frontend)
+2. [Backend Repo](https://github.com/shivang17d/BLOGIFY-backend)
 
 ## [LIVE](https://shivang-blogify.netlify.app/)
 
